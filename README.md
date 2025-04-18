@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/eltonsimiyu/eltonsimiyu/assets/banner.png" alt="Elton Simiyu Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Elton Simiyu</h1>
 <p align="center">
   💻 Full-Stack Developer | ⚙️ Network Admin | 🧠 Problem Solver  

@@ -9,9 +9,15 @@
 </p>
 
 <p align="center">
-  <a href="https://eltonsimiyu.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/🌐 Portfolio-visit-green?style=flat&logo=githubpages" /></a>
-  <a href="mailto:eltonsimiyu99@gmail.com"><img src="https://img.shields.io/badge/📧 Email-me-red?style=flat&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/elton-simiyu-kenya/" target="_blank"><img src="https://img.shields.io/badge/💼 LinkedIn-follow-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://eltonsimiyu.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-visit-green?style=flat&logo=githubpages" />
+  </a>
+  <a href="mailto:eltonsimiyu99@gmail.com">
+    <img src="https://img.shields.io/badge/📧 Email-me-red?style=flat&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/elton-simiyu-kenya/" target="_blank">
+    <img src="https://img.shields.io/badge/💼 LinkedIn-follow-blue?style=flat&logo=linkedin" />
+  </a>
 </p>
 
 ---
@@ -33,7 +39,7 @@ I'm a dedicated software engineer with hands-on experience in:
 
 ### 🧰 Tech Stack
 
-```javascript
+```json
 {
   "Frontend": ["React", "Bootstrap", "AOS", "Axios"],
   "Backend": ["Node.js", "Django", "Express"],
